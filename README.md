@@ -13,5 +13,5 @@
 - [x] Tailwind CSS Setup
 - [x] Assets & Styles
 - [x] Develop header
-- [ ] The Movie DB API
+- [x] The Movie DB API
 - [ ] Develop movie card component
