@@ -14,4 +14,9 @@
 - [x] Assets & Styles
 - [x] Develop header
 - [x] The Movie DB API
-- [ ] Develop movie card component
+- [x] Develop movie card component
+- [ ] Implement Search
+- [ ] Optimize Search
+- [ ] Trending Movie Feature
+- [ ] Show Trending Movies
+- [ ] Deployment
