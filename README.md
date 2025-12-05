@@ -1,0 +1,17 @@
+# [React JS 19 Full Course 2025](https://youtu.be/dCLhUialKPQ?si=YUnuqbKXxUbDZEfJ)
+- [x] Intro
+- [x] Crash Course
+- [x] React Setup
+- [x] Create React.js Project
+- [x] Components
+- [x] Props
+- [x] Styles
+- [x] States and Hooks
+- [x] UseEffect Hook
+- [x] React Snippets
+- [x] About the Project
+- [x] Tailwind CSS Setup
+- [x] Assets & Styles
+- [x] Develop header
+- [ ] The Movie DB API
+- [ ] Develop movie card component
